@@ -4,7 +4,7 @@
 This project aims to analyze data related to diabetes and build a predictive model to determine the likelihood of a patient having diabetes based on various medical factors.
 
 ## Data Collection
-The dataset used is the **Pima Indians Diabetes dataset**, which includes medical predictor variables and an outcome variable indicating whether the patient has diabetes.
+The dataset used is the **Diabetes dataset**, which includes medical predictor variables and an outcome variable indicating whether the patient has diabetes.
 
 ## Exploratory Data Analysis (EDA)
 The EDA phase involves understanding the dataset's characteristics, visualizing distributions, and identifying patterns or outliers.
